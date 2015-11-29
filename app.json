@@ -3,5 +3,6 @@
 	"description": "A",
 	"website": "http://tipsy.la",
 	"repository": "https://github.com/arzynik/tipsy-hello-world",
-	"keywords": ["tipsy", "hello", "world"]
+	"keywords": ["tipsy", "hello", "world"],
+	"logo": "http://tipsy.la/images/cocktail.png"
 }
