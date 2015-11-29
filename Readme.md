@@ -8,4 +8,4 @@ A very simple Tipsy example
 
 #### Deploying on your own environment
 
-See [Tipsy Documentation](https://github.com/arzynik/Tipsy/wiki) for more information.
+See [Tipsy Documentation](https://github.com/arzynik/tipsy/wiki) for more information.
